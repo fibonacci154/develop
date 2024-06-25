@@ -1,2 +1,1 @@
-# develop
 # Уроки по Python
