@@ -1,1 +1,1 @@
-# Уроки по Python
+# Python 3
